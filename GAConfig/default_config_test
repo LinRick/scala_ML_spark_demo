@@ -1,0 +1,6 @@
+numGenerations=50
+mutProb=0.01
+selectionPercentage=0.5
+numPopulations=5
+sizePop=10
+maxWeight_problem=8
